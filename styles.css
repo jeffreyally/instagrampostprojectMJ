@@ -1,0 +1,72 @@
+body,
+html {
+	height: 100%;
+	width: 100%;
+	box-sizing: border-box;
+	margin: 0;
+}
+
+.postbox {
+	height: 100%;
+	width: 40%;
+	margin: 0 auto;
+}
+
+.postboxheader {
+	display: flex;
+	border-style: solid;
+}
+
+.headerlogo {
+	width: 10%;
+	margin: 1%;
+}
+.appname {
+	width: 10%;
+	margin: 1%;
+}
+
+.dropdownmenudots {
+	width: 70%;
+	padding-left: 75%;
+	padding-top: 2%;
+
+	font-size: 24px;
+}
+
+.postboxpic {
+	border-style: solid;
+	padding-bottom: 50%;
+}
+
+.iconbox {
+	display: flex;
+	width: 100%;
+}
+
+.fa-heart {
+	color: red;
+	font-size: 30px;
+}
+
+.fa-comment {
+	font-size: 30px;
+	margin-left: 2%;
+}
+
+.fa-paper-plane {
+	font-size: 30px;
+	margin-left: 2%;
+}
+
+.fa-bookmark {
+	font-size: 30px;
+	margin-left: 75.5%;
+}
+.likedby {
+	font-family: "Roboto", sans-serif;
+}
+
+.picparagraph {
+	font-family: "Roboto", sans-serif;
+}
